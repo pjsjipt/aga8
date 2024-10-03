@@ -1,0 +1,11 @@
+Package: aga8
+Version: 0.1
+Priority: None
+Title: Natural gas compressibility
+Author: Paulo Jabardo <pjabardo@ipt.br>
+Maintainer: Paulo Jabardo <pjabardo@ipt.br>
+Description: Routines for the calculation of natural gas compression factor
+License: GPL version 2 or later
+Collate:
+    'aga8.R'
+    'heat.R'
